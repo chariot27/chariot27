@@ -12,7 +12,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,gcp,kali,ubuntu,c,cpp,cs,dotnet,linkedin,git,github,angular,vite,nodejs,javascript,typescript,html,css,vscode,redhat" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,kali,ubuntu,c,cpp,cs,dotnet,git,github" />
 </a>
   <br />
 
