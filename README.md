@@ -12,7 +12,12 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,dotnet" />
+  <h2>My Stack</h2>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  
+  <h2>Improvement</h2>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c" />
+  
 </a>
   <br />
 
