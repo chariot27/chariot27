@@ -13,7 +13,7 @@
   <div align="center" >
 <a href="https://skillicons.dev"   >
   
-  <h2>My Stack</h2>
+  <h2>Stack</h2>
   
   <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
   
