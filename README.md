@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=c,cs,dotnet" />
 
   <h2>In List</h2>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,azure,cmake,linux" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,azure,cmake,linux,vercel" />
   
 </a>
   <br />
