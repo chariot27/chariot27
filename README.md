@@ -19,10 +19,10 @@
   
   <h2>Improvement</h2>
   
-  <img src="https://skillicons.dev/icons?i=c,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,arduino" />
 
   <h2>In List</h2>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,azure,cmake,vercel" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,azure,cmake,vercel" />
   
 </a>
   <br />
