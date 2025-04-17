@@ -14,9 +14,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chariot27&show_icons=true&theme=transparent)
-
-
  
 
 
