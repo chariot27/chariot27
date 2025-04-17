@@ -1,5 +1,12 @@
  # Maximiliano Tarigo
-### 🏴‍☠️ RED TEAM & SOFTWARE DEVELOPER                                                                                          
+### Desenvolvedor Fullstack .NET(Atualmente)
+### Analista de Suporte TI
+### Desenvolvedor Backend Java
+### Desenvolvedor Low Code GeneXus 20
+
+### Bug Hunter(Hobbie)
+
+### Arquiteto de Software (Objetivo jogando baixo...imagina o alto)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
