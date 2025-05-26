@@ -1,16 +1,4 @@
- # Maximiliano Tarigo
-Desenvolvedor Fullstack(Atualmente)
-<br/>
-Analista de Suporte TI
-<br/>
-Desenvolvedor Backend Java
-<br/>
-Desenvolvedor Low Code GeneXus 20
-<br/>
-<br/>
-Arquiteto de Software (Objetivo jogando baixo...imagina o alto)
-<br/>
-<br/>
+
 <br/>
 Ferramentas:
 <br/>
