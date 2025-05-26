@@ -1,5 +1,5 @@
  # Maximiliano Tarigo
-Desenvolvedor Fullstack .NET(Atualmente)
+Desenvolvedor Fullstack(Atualmente)
 <br/>
 Analista de Suporte TI
 <br/>
