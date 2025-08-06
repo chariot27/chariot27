@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Olá%2C%20Eu%20sou%20.%20.%20." alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Olá%2C%20Bem%20vindo%20.%20.%20." alt="banner"/>
 </p>
 
 <h3 align="center">Maximiliano Tarigo</h3>
