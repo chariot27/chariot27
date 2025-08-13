@@ -51,5 +51,4 @@
 - E-mail: (adicione seu e-mail ou badge se quiser)
 
 ---
-
-_Todos os projetos estão disponíveis na aba "Repositórios" — open source, em constante evolução._  
+ 
