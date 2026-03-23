@@ -5,15 +5,7 @@
 <h3 align="center">Maximiliano Tarigo</h3>
 <p align="center">Desenvolvedor & Inventor full-stack | React • Java • .NET</p>
 
----
 
-## 🚀 Destaques
-| Projeto    | Tech Stack                  | Descrição                            |
-|------------|-----------------------------|--------------------------------------|
-| sqliteDll  | React / Spring Boot / SQLite| Criador visual de tabelas dinâmicas  |
-| KNH SaaS | Java / React Native    | SaaS para profissionais de linkedin  |
-
----
 
 ## 🛠 Principais Skills
 <p align="left">
