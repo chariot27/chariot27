@@ -3,9 +3,49 @@
 </p>
 
 <h3 align="center">Maximiliano Tarigo</h3>
-<p align="center">Desenvolvedor & Inventor full-stack | React • Java • .NET</p>
 
 
+---
+<!-- BANNER -->
+<p align="center">
+  <a href="https://gitter.im/COSS-Jarvis/community">
+    <img src="https://files.gitter.im/COSS-Jarvis/community/euO1/tumblr_nrqm32yH3W1r6xm5co1_1280.gif" alt="dfsdf">
+  </a>
+</p>
+
+<!-- TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Red+Team+Operator+in+Shadows;Initial+Access+is+the+Old+Blood.;Escalate+Privileges+to+transcend+the+Network." alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- CONTACT -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximiliano-tarigo-dev)
+
+</div>
+
+<br/>
+
+---
+
+**Read Team Engineer in Training**
+
+> *"Freedom is the power to choose your jail."*
+
+```
+◈  Class     →  Red Team
+◈  Origin    →  Brazil 🇧🇷
+◈  Status    →  Hunter. Refuses to go hollow.
+```
+
+<br clear="right"/>
+
+---
+
+## Technologies
 
 ## Programming Languages
 <p align="left">
@@ -34,22 +74,28 @@
           
 </p>
 
+---
+
+## Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chariot27&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+
+<br/><br/>
 
 
 
-## 🔄 Status & Contribuições
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chariot27&theme=dark" alt="streak stats"/>
-</p>
+</div>
 
 ---
 
-## 📫 Contato
+## 📜 Contribution Graph
 
-- GitHub: [chariot27](https://github.com/chariot27)  
-- LinkedIn: contato via perfil  
-- E-mail: (adicione seu e-mail ou badge se quiser)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chariot27&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/najuiamnc)
+
+</div>
 
 ---
- 
