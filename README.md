@@ -4,20 +4,6 @@
 
 <h3 align="center">Maximiliano Tarigo</h3>
 
-<!-- TITLE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Red+Team+Operator+in+Shadows;Initial+Access+is+the+Old+Blood.;Escalate+Privileges+to+transcend+the+Network." alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<!-- CONTACT -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximiliano-tarigo-dev)
-
-</div>
-
 <br/>
 
 ---
