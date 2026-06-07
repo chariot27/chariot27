@@ -4,24 +4,6 @@
 
 <h3 align="center">Maximiliano Tarigo</h3>
 
-<br/>
-
----
-
-**Read Team Engineer in Training**
-
-> *"Freedom is the power to choose your jail."*
-
-```
-◈  Class     →  Red Team
-◈  Origin    →  Brazil 🇧🇷
-◈  Status    →  Hunter. Refuses to go hollow.
-```
-
-<br clear="right"/>
-
----
-
 ## Technologies
 
 ## Programming Languages
