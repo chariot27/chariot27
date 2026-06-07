@@ -4,15 +4,6 @@
 
 <h3 align="center">Maximiliano Tarigo</h3>
 
-
----
-<!-- BANNER -->
-<p align="center">
-  <a href="https://gitter.im/COSS-Jarvis/community">
-    <img src="https://files.gitter.im/COSS-Jarvis/community/euO1/tumblr_nrqm32yH3W1r6xm5co1_1280.gif" alt="dfsdf">
-  </a>
-</p>
-
 <!-- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Red+Team+Operator+in+Shadows;Initial+Access+is+the+Old+Blood.;Escalate+Privileges+to+transcend+the+Network." alt="Typing SVG"/>
