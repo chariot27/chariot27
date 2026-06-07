@@ -4,8 +4,6 @@
 
 <h3 align="center">Maximiliano Tarigo</h3>
 
-## Technologies
-
 ## Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="30"/>
